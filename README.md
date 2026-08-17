@@ -44,13 +44,14 @@ We utilized the Geometric Distribution to model the probability of the number of
 
 # opening analysis
 
-![alt text](project images/final_opening_diversity.png)
+<img width="1097" height="622" alt="image" src="https://github.com/user-attachments/assets/a08ab934-0947-4a11-acfa-f2c74efe61f5" />
 
-![alt text](top_5_openings_pie.png)
 
-![alt text](entropy_main_vs_var.png)
+<img width="1048" height="660" alt="image" src="https://github.com/user-attachments/assets/8466e9a4-847f-407f-9e4d-49875e363896" />
 
-![alt text](opening_loyalty_density_panels-1.png)
+<img width="1137" height="714" alt="image" src="https://github.com/user-attachments/assets/9b3e9452-c332-4c9b-83a3-c9cd474791a5" />
+
+<img width="1589" height="442" alt="image" src="https://github.com/user-attachments/assets/cadd70f0-41bd-41ea-8a21-63e476b20a65" />
 
 
 ## Statistical analysis 
@@ -64,9 +65,9 @@ We utilized the Geometric Distribution to model the probability of the number of
  # Psychology analysis using FIDE data
 
 
-![alt text](cohort_effect_analysis.png)
+<img width="3442" height="1805" alt="image" src="https://github.com/user-attachments/assets/ed43c0f4-32a6-48ed-802f-bf7189838220" />
 
-![alt text](image.png)
+<img width="3300" height="2611" alt="image" src="https://github.com/user-attachments/assets/34afa27a-7c9a-4fc5-a50b-dd3563e5720a" />
 
 ## Statistical Analysis: Linear Regression of Elo Growth Rates
 
