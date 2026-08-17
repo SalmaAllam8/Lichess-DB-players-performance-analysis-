@@ -44,7 +44,7 @@ We utilized the Geometric Distribution to model the probability of the number of
 
 # opening analysis
 
-![alt text](final_opening_diversity.png)
+![alt text](project images/final_opening_diversity.png)
 
 ![alt text](top_5_openings_pie.png)
 
