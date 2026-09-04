@@ -104,5 +104,6 @@ Rather than using simple clustering (like K-Means), I utilized the **Leiden Algo
 
 <img width="1489" height="1190" alt="image" src="https://github.com/user-attachments/assets/6fcde7e1-9555-48d8-98f3-a24ecb223fa9" />
 
+<img width="1076" height="610" alt="image" src="https://github.com/user-attachments/assets/c6b3b584-2e98-49fe-878c-f9e5429d982c" />
 
 for more details : TECHNICAL_APPENDIX.md
